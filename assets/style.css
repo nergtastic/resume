@@ -44,6 +44,7 @@ h4 {
     border-style: solid;
     border-width: 1px;
     padding: 25px 50px 400px 50px;
+    margin: 0px 25px;
 }
 
 .resume-work-history-title {
@@ -85,11 +86,18 @@ h4 {
 .education {
     border-radius: 15px;
     text-align: center;
-
+    margin-bottom: 150px;
 }
 
-.education-item {
+.education-item-1 {
     text-align: center;
-    width: 50%;
+    width: 40%;
+    margin: 0px 5% 0px 8%;
+}
 
+.education-item-2 {
+    text-align: center;
+    width: 40%;
+    margin-left: 50%;
+    display: inline-block;
 }
