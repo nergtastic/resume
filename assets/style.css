@@ -1,0 +1,95 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    margin: 2px 2px;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+h4 {
+    margin: 2px 2px;
+}
+
+.resume-header {
+    margin-bottom: 30px;
+    width: 25%;
+    background-color: #aabbcc;
+    border-radius: 15px;
+    padding: 1px 25px;
+}
+
+.title {
+    margin: 0px 0px 10px 0px;
+    color: #333;
+}
+
+.subtitle {
+    margin: 0px 0px 15px 0px;
+/*    border-color:red;
+    border-width: 2px;
+    border-style: solid; */
+}
+
+.resume-header-title {
+    margin: 25px 25% 25px 25%;
+    text-align: center;
+}
+
+.resume-work-history {
+    background-color:#efefef;
+    border-radius: 15px;
+    border-color: #aaaaaa;
+    border-style: solid;
+    border-width: 1px;
+    padding: 25px 50px 400px 50px;
+}
+
+.resume-work-history-title {
+    /*margin-left: 42%;
+    margin-right: 33%;*/
+    text-align: center;
+
+}
+
+.content-item-right {
+    float: right;
+    width: 50%;
+    margin-bottom: 100px;
+    margin-top: 50px;
+}
+
+.content-item-left {
+    float: left;
+    width: 50%;
+    margin-bottom: 100px;
+}
+
+.content-item-title {
+    /*margin-left: 20%;
+    margin-right: 20%;*/
+    text-align:center;
+}
+
+.profile-picture {
+    width: 90%;
+    border-radius: 10px;
+}
+
+.content-item-body {
+    width: 100%;
+    text-align: center;
+}
+
+.education {
+    border-radius: 15px;
+    text-align: center;
+
+}
+
+.education-item {
+    text-align: center;
+    width: 50%;
+
+}
